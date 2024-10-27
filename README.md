@@ -1,4 +1,4 @@
-Arquivo compactado do projeto Reserva de Sala. Após a extração, por favor, abra o projeto no IntelliJ IDEA.
+Arquivo compactado do projeto Reserva de Sala,para baixar aperte em view raw. Após a extração, por favor, abra o projeto no IntelliJ IDEA.
 
 Para teste,utilizar o banco de dados do MySQL Workbench e Postman:
 http://localhost:8080/api/reservas/usuario/{usuarioId} //get para numero de reservas por usuario
